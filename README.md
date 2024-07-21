@@ -1,12 +1,12 @@
 # 8bitworkshop
 
-![Build Status](https://github.com/sehugg/8bitworkshop/actions/workflows/node.js.yml/badge.svg)
+![Build Status](https://github.com/Nightchanger/8bitworkshop/actions/workflows/node.js.yml/badge.svg)
 
 
 ## Use Online
 
 * Latest release: https://8bitworkshop.com/
-* Latest Github build: https://sehugg.github.io/8bitworkshop/
+* Latest Github build: https://Nightchanger.github.io/8bitworkshop/
 
 ## Install Locally
 
